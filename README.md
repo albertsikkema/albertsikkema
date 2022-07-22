@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Albert
-#### I am a Software Developer and Technical Consultant
+
 I am a Software Developer and Technical Consultant based in the Netherlands / EU. My main focus is on software for healthcare and government.
 
 Skills: Azure / Python / Data Science / VUE / Flutter
